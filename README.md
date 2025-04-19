@@ -3,7 +3,7 @@
 
 A simple example demonstrating PyImGui with GLFW and OpenGL, featuring multiple windows, tabs, and interactive controls.
 
-## Features
+## Includes
 - **Main Window with Tabs**
   - Tab 1: Window controls, checkboxes, and text inputs
   - Tab 2: Slider controls
@@ -26,7 +26,7 @@ A simple example demonstrating PyImGui with GLFW and OpenGL, featuring multiple 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/pyimgui-example.git
+git clone https://github.com/michas404/pyimgui-example.git
 cd pyimgui-example
 ```
 
