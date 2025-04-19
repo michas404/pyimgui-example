@@ -18,12 +18,6 @@ A simple example demonstrating PyImGui with GLFW, including multiple windows, ta
   - External website links
   - Custom window controls
 
-## Requirements
-- Python 3.7+
-- GLFW
-- PyImGui
-- PyOpenGL
-
 ## Installation
 
 1. **Clone the repository**
