@@ -3,7 +3,7 @@
 
 A simple example demonstrating PyImGui with GLFW and OpenGL, featuring multiple windows, tabs, and interactive controls.
 
-![Example](https://s6.gifyu.com/images/bpcv2.gif)
+![Example](https://s6.gifyu.com/images/bpcqf.gif)
 
 ## Includes
 - **Main Window with Tabs**
