@@ -68,9 +68,13 @@ pyimgui-example/
 ├── requirements.txt     # Project dependencies
 ├── README.md           # This documentation
 └── font/
-    └── ProggyClean.ttf # Required font file
+    └── ProggyClean.ttf # Required font file (also original font)
 ```
 
 ## Links
 - [Documentation](https://docs.michas.lol/) (Coming soon)
 - [Author's Website](https://me.michas.lol/)
+
+## PyImGui Author
+- [Release](https://github.com/pyimgui/pyimgui)
+- [Profile](https://github.com/KinoxKlark)
