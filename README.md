@@ -1,4 +1,4 @@
-# PyImGui Exampl
+# PyImGui Example
 (pyimgui-example)
 
 A simple example demonstrating PyImGui with GLFW and OpenGL, featuring multiple windows, tabs, and interactive controls.
