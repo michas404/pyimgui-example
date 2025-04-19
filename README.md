@@ -1,7 +1,7 @@
 # PyImGui Example
 (pyimgui-example)
 
-A simple example demonstrating PyImGui with GLFW and OpenGL, featuring multiple windows, tabs, and interactive controls.
+A simple example demonstrating PyImGui with GLFW, including multiple windows, tabs, and interactive controls.
 
 ![Example](https://s6.gifyu.com/images/bpcqf.gif)
 
